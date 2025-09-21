@@ -19,7 +19,7 @@ function App() {
         </Navbar>
 
         {/* Heading */}
-        <h1 className="text-center mt-4">Welcome to My First React App 🚀</h1>
+        <h1 className="text-center mt-4">Welcome to My First React App </h1>
 
         {/* Cards Section */}
         <Container className="d-flex justify-content-around mt-5">
